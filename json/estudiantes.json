@@ -1,0 +1,212 @@
+[
+  {
+    "id": "6051321384cf9882a723db1b",
+    "nombre": "Juliet",
+    "apellido": "Chan",
+    "edad": 45,
+    "nota_final": 99
+  },
+  {
+    "id": "605132136a9ac7fefabd393d",
+    "nombre": "Mccall",
+    "apellido": "Wall",
+    "edad": 33,
+    "nota_final": 95
+  },
+  {
+    "id": "6051321305878e48302418f5",
+    "nombre": "Burke",
+    "apellido": "Buck",
+    "edad": 30,
+    "nota_final": 93
+  },
+  {
+    "id": "60513213e12c75aef4a23d8b",
+    "nombre": "Madeleine",
+    "apellido": "Foster",
+    "edad": 50,
+    "nota_final": 89
+  },
+  {
+    "id": "60513213c303b34a78ff7bea",
+    "nombre": "Gibson",
+    "apellido": "Roy",
+    "edad": 23,
+    "nota_final": 96
+  },
+  {
+    "id": "60513213a5ce2683e62f7071",
+    "nombre": "Rosetta",
+    "apellido": "Holland",
+    "edad": 34,
+    "nota_final": 76
+  },
+  {
+    "id": "60513213f104d3bbb2e16a29",
+    "nombre": "Casandra",
+    "apellido": "Decker",
+    "edad": 35,
+    "nota_final": 74
+  },
+  {
+    "id": "60513213afc8ceffad49eb28",
+    "nombre": "Eddie",
+    "apellido": "Whitaker",
+    "edad": 40,
+    "nota_final": 83
+  },
+  {
+    "id": "60513213a59d70a22e4b8794",
+    "nombre": "Janie",
+    "apellido": "Greer",
+    "edad": 32,
+    "nota_final": 88
+  },
+  {
+    "id": "605132135a774e38dff45a27",
+    "nombre": "Underwood",
+    "apellido": "Salas",
+    "edad": 27,
+    "nota_final": 71
+  },
+  {
+    "id": "6051321330be5846973515b0",
+    "nombre": "Roxanne",
+    "apellido": "Richardson",
+    "edad": 37,
+    "nota_final": 97
+  },
+  {
+    "id": "605132133feb13478ae7edda",
+    "nombre": "Daugherty",
+    "apellido": "Murray",
+    "edad": 28,
+    "nota_final": 97
+  },
+  {
+    "id": "6051321343dfae51f0c73986",
+    "nombre": "Jordan",
+    "apellido": "Flores",
+    "edad": 22,
+    "nota_final": 98
+  },
+  {
+    "id": "60513213dd6a91589bcee686",
+    "nombre": "Angelita",
+    "apellido": "Woods",
+    "edad": 23,
+    "nota_final": 80
+  },
+  {
+    "id": "60513213d0366cc18354091f",
+    "nombre": "Phyllis",
+    "apellido": "Clark",
+    "edad": 40,
+    "nota_final": 71
+  },
+  {
+    "id": "6051321397c04d9abf63b55a",
+    "nombre": "Mcconnell",
+    "apellido": "Lopez",
+    "edad": 23,
+    "nota_final": 77
+  },
+  {
+    "id": "60513213719b4ccf0c8d1782",
+    "nombre": "Amber",
+    "apellido": "Moreno",
+    "edad": 35,
+    "nota_final": 70
+  },
+  {
+    "id": "6051321372f6603d4fd57ae0",
+    "nombre": "Edith",
+    "apellido": "Valencia",
+    "edad": 30,
+    "nota_final": 92
+  },
+  {
+    "id": "60513213c20f833f1b02bf4a",
+    "nombre": "Goldie",
+    "apellido": "Love",
+    "edad": 36,
+    "nota_final": 98
+  },
+  {
+    "id": "6051321307dbb102c2ea4759",
+    "nombre": "Natalie",
+    "apellido": "Patterson",
+    "edad": 44,
+    "nota_final": 75
+  },
+  {
+    "id": "60513213e05dca3bfe3165ed",
+    "nombre": "Foster",
+    "apellido": "Romero",
+    "edad": 40,
+    "nota_final": 81
+  },
+  {
+    "id": "60513213cfd394f77c7a11a6",
+    "nombre": "Dominique",
+    "apellido": "Short",
+    "edad": 39,
+    "nota_final": 74
+  },
+  {
+    "id": "6051321350dc527eabea82d5",
+    "nombre": "Shelton",
+    "apellido": "Fields",
+    "edad": 36,
+    "nota_final": 90
+  },
+  {
+    "id": "60513213f969fdac35791bab",
+    "nombre": "Graham",
+    "apellido": "Erickson",
+    "edad": 35,
+    "nota_final": 83
+  },
+  {
+    "id": "60513213978e1300302768c4",
+    "nombre": "Valencia",
+    "apellido": "Dotson",
+    "edad": 26,
+    "nota_final": 96
+  },
+  {
+    "id": "6051321354ad488d4174993b",
+    "nombre": "Collins",
+    "apellido": "Horne",
+    "edad": 36,
+    "nota_final": 81
+  },
+  {
+    "id": "6051321346f250c3325d954d",
+    "nombre": "Hardin",
+    "apellido": "Quinn",
+    "edad": 23,
+    "nota_final": 92
+  },
+  {
+    "id": "60513213b66005197d529767",
+    "nombre": "Serena",
+    "apellido": "Bean",
+    "edad": 30,
+    "nota_final": 73
+  },
+  {
+    "id": "6051321368ad7c670085a5c1",
+    "nombre": "Violet",
+    "apellido": "Bell",
+    "edad": 23,
+    "nota_final": 89
+  },
+  {
+    "id": "60513213f350b192599f2617",
+    "nombre": "Baldwin",
+    "apellido": "Mcintyre",
+    "edad": 31,
+    "nota_final": 75
+  }
+]
