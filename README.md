@@ -1,6 +1,6 @@
 # Inscripcion-Estudiantes
 Es una pequeña aplicación vía web que permite la inscripción de estudiantes a los cursos libres ofrecidos por la Universidad, 
-los cuales son almacenados en una base de datos(MYSQL) para luego ser consultados.
+los cuales son almacenados en una base de datos(MYSQL) para luego ser consultados,usando el método de PDO con PHP.
 
 Por medio de una página se genero un JSON para usarse como un API con los estudiantes por grupo
 el cual es consultado mediante una conexión AJAX.
