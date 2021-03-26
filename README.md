@@ -7,3 +7,5 @@ el cual es consultado mediante una conexión AJAX.
 
 Por último se puede observar que los estudiantes almacenados en la base de datos, con la misma app genera un API
 con esa información el cual puede ser observado u descargado para su posterior uso.
+
+ Realizado con HTML, CSS, Bootstrap, Javascript , Jquery, AJAX, PHP y base de datos MYSQL.
